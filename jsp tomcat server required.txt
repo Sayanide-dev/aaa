@@ -1,0 +1,19 @@
+jsp tomcat server required
+
+jdk11 eclipse 2018 till unit 5
+
+
+postgres 
+
+
+jdk 17 set up for spring boot tool suite
+
+spring boot projects in spring boot suite
+
+For spring boot programs
+1)New Java project
+2)New spring starter project (select maven)
+3)demo file will be created
+4)in demo > src/main/java create java file and write the code
+5)run the demoapplication.java file > run as java application
+6)go to browser and insert localhost:8080 and enter
